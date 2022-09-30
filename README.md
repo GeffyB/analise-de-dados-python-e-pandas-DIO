@@ -1,4 +1,4 @@
-# Projeto_Dados_com_Python_Pandas_DIO
+# Projeto Analise de Dados com Python e Pandas
  Repositório com desenvolvimento dos códigos e anotações de aula para entrega do Projeto do Curso Introdutório de Python para análise de dados com Python e Pandas da [Digital Innovation One](https://web.dio.me/).
  
 Os códigos usados aqui apresentam várias adaptações em relação aos usados na aula, uma vez que, a professora do curso estava usando o Jupyter Notebook do Google Colaboratory e eu usei o VScode como arquivo (.py e não arquivos .ipynb) durante todo o decorrer do curso. Por esse motivo algumas linhas de código precisaram ser modificadas e adicionadas algumas para garantir a visualização no terminal e outras para melhorar a visualização do código para fins didáticos.
